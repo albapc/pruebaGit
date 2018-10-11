@@ -1,3 +1,3 @@
 # pruebaGit
 
-Hola, soy el Readme
+## Hola, soy el Readme
